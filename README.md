@@ -1,3 +1,9 @@
+## TeeV
+
+A QT-based TV viewing application built around libdvbtee
+
+![TeeV screenshot](teev-ss.jpg)
+
 ## dvbtee & libdvbtee
 
 ### Introduction
